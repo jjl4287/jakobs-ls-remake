@@ -22,6 +22,6 @@ To use an option, simply include it as a command line argument when running the 
 
 To list the contents of a specific directory in long format, including hidden files and directories, you would run:
 
-```./list -la /path/to/directory``
+```./list -la /path/to/directory```
 
 Note that options can be combined, so you can use -al instead of -a -l.
